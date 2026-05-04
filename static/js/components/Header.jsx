@@ -80,7 +80,7 @@ const Header = () => {
       <div className="btn-holder">
         <a
           className="button"
-          href="https://four.meme/token/0xd743d3c50ebd82f9173b599383979d10f3494444"
+          href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
           target="_blank"
           rel="noreferrer"
         >

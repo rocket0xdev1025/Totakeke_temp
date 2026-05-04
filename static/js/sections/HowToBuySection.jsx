@@ -3,7 +3,7 @@ import { FaCopy, FaRegCheckCircle } from "react-icons/fa";
 
 const HowToBuySection = ({ id }) => {
   const [isCopied, setIsCopied] = useState(false);
-  const contractAddress = "0xd743d3c50ebd82f9173b599383979d10f3494444";
+  const contractAddress = "0xcomingsoon";
   const contractAddressShort =
     contractAddress.slice(0, 6) + "..." + contractAddress.slice(-4);
 
@@ -46,13 +46,13 @@ const HowToBuySection = ({ id }) => {
       <div className="holder">
         <div className="center">
           <h3>
-            How to buy <b>TOTAKEKE</b>
+            How to buy <b>Apple</b>
           </h3>
           <div className="tokenomics-details animal-farm">
             <ul>
               <li>
                 <p>
-                  Download and install a BNB-compatible wallet like{" "}
+                  Download and install a ETH-compatible wallet like{" "}
                   <a href="https://metamask.io/" target="_blank">
                     MetaMask
                   </a>{" "}
@@ -65,12 +65,12 @@ const HowToBuySection = ({ id }) => {
               </li>
               <li>
                 <p>
-                  Buy BNB from a reputable exchange and transfer it to your
+                  Buy ETH from a reputable exchange and transfer it to your
                   wallet.
                 </p>
               </li>
               <li>
-                <p>Visit four.meme and connect your wallet</p>
+                <p>Visit Uniswap and connect your wallet</p>
               </li>
               <li>
                 <p>
@@ -79,9 +79,9 @@ const HowToBuySection = ({ id }) => {
                     href={`data:text/plain,${contractAddress}`}
                     download="ca.txt"
                   >
-                    TOTAKEKE contract address
+                    Apple contract address
                   </a>{" "}
-                  and swap your BNB for TOTAKEKE tokens.
+                  and swap your ETH for Apple tokens.
                 </p>
               </li>
             </ul>

@@ -25,7 +25,7 @@ const Footer = () => {
           <img src="/logo.png" alt="Snowball Logo" />
           <h3>
             {" "}
-            <span className="default">$</span>TOTAKEKE
+            <span className="default">$</span>Apple
           </h3>
         </div>
         <div className="footer-links">
@@ -41,7 +41,7 @@ const Footer = () => {
         </div>
         <div className="footer-social links">
           <a
-            href="https://t.me/+EXbUMtY3MwE4MjU0"
+            href="https://t.me/applefox_eth"
             target="_blank"
             rel="noreferrer"
             className="link-btn"
@@ -49,7 +49,7 @@ const Footer = () => {
             <FaTelegramPlane />
           </a>
           <a
-            href="https://x.com/_Totakekebsc"
+            href="https://x.com/applefox_eth"
             target="_blank"
             rel="noreferrer"
             className="link-btn"
@@ -57,23 +57,7 @@ const Footer = () => {
             <FaXTwitter />
           </a>
           <a
-            href="https://www.facebook.com/BalltzeFat96/posts/my-twin-brother-/755443512609745/"
-            target="_blank"
-            rel="noreferrer"
-            className="link-btn"
-          >
-            <FaFacebook />
-          </a>
-          <a
-            href="https://dex.coinmarketcap.com/token/bsc/0xd743d3c50ebd82f9173b599383979d10f3494444/"
-            target="_blank"
-            rel="noreferrer"
-            className="link-btn"
-          >
-            <SiCoinmarketcap />
-          </a>
-          <a
-            href="https://dexscreener.com/bsc/0xdb34b6781868690e3b8db7a55337269249e4adce"
+            href="https://dexscreener.com/ethereum/0xcomingsoon"
             target="_blank"
             rel="noreferrer"
             className="link-btn dex-screener"
@@ -83,7 +67,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; {currentYear} $TOTAKEKE. All rights reserved.</p>
+        <p>&copy; {currentYear} $Apple. All rights reserved.</p>
       </div>
     </footer>
   );

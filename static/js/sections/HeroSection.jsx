@@ -41,25 +41,24 @@ const HeroSection = ({ id, toggleDark }) => {
           <p> </p>
           <h1 className="big-hero">
             {/* <DecryptedText
-              text="TOTAKEKE"
+              text="Apple"
               animateOn="view"
               revealDirection="center"
               speed={20}
             /> */}
-            TOTAKEKE
-            <span className="hero-small">{"{cto}"}</span>
+            Apple
           </h1>
           <div className="cta-holder">
             <a
               className="button"
-              href="https://four.meme/token/0xd743d3c50ebd82f9173b599383979d10f3494444"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
               target="_blank"
               rel="noreferrer"
             >
               Buy Now!
             </a>
             <a
-              href="https://t.me/+EXbUMtY3MwE4MjU0"
+              href="https://t.me/applefox_eth"
               target="_blank"
               rel="noreferrer"
             >
@@ -70,8 +69,8 @@ const HeroSection = ({ id, toggleDark }) => {
         <small></small>
         <p className="details">
           {showFull
-            ? `...Many users confirmed the post was real, and some started to call TOTAKEKE the “Dark Cheems”, or his “Evil Twin.” Although he’s just a good boi!.`
-            : "TOTAKEKE was posted in Balltze’s official social media channels as the twin brother of our beloved doggy Cheems!..."}
+            ? `She is going so viral on TikTok. All fees are being donated to her animal shelter.`
+            : "Apple The Fox was rescued by a girl running an animal shelter, due to it had hydrocephalus."}
         </p>
         <div className="pagination">
           <button

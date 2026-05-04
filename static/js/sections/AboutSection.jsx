@@ -22,12 +22,12 @@ import { SiCoinmarketcap } from "react-icons/si";
 const AboutSection = ({ id }) => {
   return (
     <section id={id} className="about-section tokenomics-section page-section">
-      <h2>DARK CHEEMS</h2>
+      <h2>Viral on TikTok</h2>
       <div className="tokenomics-details about-details">
         <p>
           The owner of Cheems Balltze confirmed something big — Cheems has a
           twin,
-          <br /> and his name is <b>TOTAKEKE</b>.
+          <br /> and his name is <b>Apple</b>.
         </p>
 
         {/* <a
@@ -60,7 +60,7 @@ const AboutSection = ({ id }) => {
           </p> */}
           <div className="links">
             <a
-              href="https://t.me/+EXbUMtY3MwE4MjU0"
+              href="https://t.me/applefox_eth"
               target="_blank"
               rel="noreferrer"
               className="link-btn"
@@ -68,7 +68,7 @@ const AboutSection = ({ id }) => {
               <FaTelegramPlane />
             </a>
             <a
-              href="https://x.com/_Totakekebsc"
+              href="https://x.com/applefox_eth"
               target="_blank"
               rel="noreferrer"
               className="link-btn"
@@ -76,23 +76,7 @@ const AboutSection = ({ id }) => {
               <FaXTwitter />
             </a>
             <a
-              href="https://www.facebook.com/BalltzeFat96/posts/my-twin-brother-/755443512609745/"
-              target="_blank"
-              rel="noreferrer"
-              className="link-btn"
-            >
-              <FaFacebook />
-            </a>
-            <a
-              href="https://dex.coinmarketcap.com/token/bsc/0xd743d3c50ebd82f9173b599383979d10f3494444/"
-              target="_blank"
-              rel="noreferrer"
-              className="link-btn"
-            >
-              <SiCoinmarketcap />
-            </a>
-            <a
-              href="https://dexscreener.com/bsc/0xdb34b6781868690e3b8db7a55337269249e4adce"
+              href="https://dexscreener.com/ethereum/0xcomingsoon"
               target="_blank"
               rel="noreferrer"
               className="link-btn dex-screener"

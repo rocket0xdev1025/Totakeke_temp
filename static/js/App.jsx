@@ -30,15 +30,6 @@ function App() {
     "/images/5.jpeg",
     "/images/6.jpeg",
     "/images/7.jpeg",
-    "/images/8.jpeg",
-    "/images/9.jpeg",
-    "/images/10.jpeg",
-    "/images/11.jpeg",
-    "/images/12.jpeg",
-    "/images/13.jpeg",
-    "/images/14.jpeg",
-    "/images/15.jpeg",
-    "/images/16.jpeg",
   ];
 
   useEffect(() => {
@@ -47,7 +38,7 @@ function App() {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
             setCurrentSection(entry.target.id);
-            document.title = `${entry.target.id} | $TOTAKEKE`;
+            document.title = `Apple | $Apple`;
           }
         });
       },
@@ -104,7 +95,7 @@ function App() {
         >
           <HeroSection id="Home" toggleDark={toggleDark} />
           <CurvedLoop
-            marqueeText="TOTAKEKE ✦ DARK CHEEMS ✦ CTO ✦ TOTAKEKE ✦ DARK CHEEMS ✦ CTO ✦ TOTAKEKE ✦ DARK CHEEMS ✦ CTO ✦ "
+            marqueeText="Apple ✦ viral on TikTok ✦ FOX ✦ Apple ✦ viral on TikTok ✦ FOX ✦ Apple ✦ viral on TikTok ✦ FOX ✦ "
             speed={3}
             curveAmount={400}
             direction="left"

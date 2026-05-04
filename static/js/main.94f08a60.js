@@ -21115,7 +21115,7 @@
                           className: "default",
                           children: "$",
                         }),
-                        "TOTAKEKE",
+                        "Apple",
                       ],
                     }),
                   ],
@@ -21144,35 +21144,21 @@
                   className: "footer-social links",
                   children: [
                     (0, S.jsx)("a", {
-                      href: "https://t.me/+EXbUMtY3MwE4MjU0",
+                      href: "https://t.me/applefox_eth",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "link-btn",
                       children: (0, S.jsx)(g, {}),
                     }),
                     (0, S.jsx)("a", {
-                      href: "https://x.com/_Totakekebsc",
+                      href: "https://x.com/applefox_eth",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "link-btn",
                       children: (0, S.jsx)(F, {}),
                     }),
                     (0, S.jsx)("a", {
-                      href: "https://www.facebook.com/BalltzeFat96/posts/my-twin-brother-/755443512609745/",
-                      target: "_blank",
-                      rel: "noreferrer",
-                      className: "link-btn",
-                      children: (0, S.jsx)(h, {}),
-                    }),
-                    (0, S.jsx)("a", {
-                      href: "https://dex.coinmarketcap.com/token/bsc/0xd743d3c50ebd82f9173b599383979d10f3494444/",
-                      target: "_blank",
-                      rel: "noreferrer",
-                      className: "link-btn",
-                      children: (0, S.jsx)(E, {}),
-                    }),
-                    (0, S.jsx)("a", {
-                      href: "https://dexscreener.com/bsc/0xdb34b6781868690e3b8db7a55337269249e4adce",
+                      href: "https://dexscreener.com/ethereum/0xcomingsoon",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "link-btn dex-screener",
@@ -21185,7 +21171,7 @@
             (0, S.jsx)("div", {
               className: "footer-bottom",
               children: (0, S.jsxs)("p", {
-                children: ["\xa9 ", e, " $TOTAKEKE. All rights reserved."],
+                children: ["\xa9 ", e, " $Apple. All rights reserved."],
               }),
             }),
           ],
@@ -21302,7 +21288,7 @@
                 className: "btn-holder",
                 children: (0, S.jsxs)("a", {
                   className: "button",
-                  href: "https://four.meme/token/0xd743d3c50ebd82f9173b599383979d10f3494444",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                   target: "_blank",
                   rel: "noreferrer",
                   children: [
@@ -21328,30 +21314,30 @@
             id: e,
             className: "about-section tokenomics-section page-section",
             children: [
-              (0, S.jsx)("h2", { children: "DARK CHEEMS" }),
+              (0, S.jsx)("h2", { children: "Viral on TikTok" }),
               (0, S.jsxs)("div", {
                 className: "tokenomics-details about-details",
                 children: [
                   (0, S.jsxs)("p", {
                     children: [
-                      "The owner of Cheems Balltze confirmed something big \u2014 Cheems has a twin,",
+                      "There's new baby fox going soo viral on TikTok.",
                       (0, S.jsx)("br", {}),
-                      " and his name is ",
-                      (0, S.jsx)("b", { children: "TOTAKEKE" }),
+                      " and her name is ",
+                      (0, S.jsx)("b", { children: "Apple" }),
                       ".",
                     ],
                   }),
                   (0, S.jsx)("p", {
                     children:
-                      "This is crazy because $Cheems launched on BNB and went to $500M. Now imagine what happens when the same dog has a twin with a clean slate and a fresh run.",
+                      "$Apple was rescued by a girl running an animal shelter, due to it had hydrocephalus.",
                   }),
                   (0, S.jsx)("p", {
                     children:
-                      "If we take into account that CHEEMS, his recognized twin reached 500 million, we still have a lot of Xs to go",
+                      "The video has 1M likes and every video she posts with the fox blows up and the account insanely viral.",
                   }),
                   (0, S.jsx)("p", {
                     children:
-                      "We\u2019re here to restore the glory of BNB Chain, to carry forward my twin brother\u2019s legacy and take it even further. This time, we\u2019re not just matching history, we\u2019re making it.",
+                      "There\u2019s Charity on her bio \u2019Arctic Fox Daily\u2019. All Fees donating to Arctic Fox Daily",
                   }),
                   (0, S.jsx)("div", {
                     className: "links-holder",
@@ -21359,35 +21345,21 @@
                       className: "links",
                       children: [
                         (0, S.jsx)("a", {
-                          href: "https://t.me/+EXbUMtY3MwE4MjU0",
+                          href: "https://t.me/applefox_eth",
                           target: "_blank",
                           rel: "noreferrer",
                           className: "link-btn",
                           children: (0, S.jsx)(g, {}),
                         }),
                         (0, S.jsx)("a", {
-                          href: "https://x.com/_Totakekebsc",
+                          href: "https://x.com/applefox_eth",
                           target: "_blank",
                           rel: "noreferrer",
                           className: "link-btn",
                           children: (0, S.jsx)(F, {}),
                         }),
                         (0, S.jsx)("a", {
-                          href: "https://www.facebook.com/BalltzeFat96/posts/my-twin-brother-/755443512609745/",
-                          target: "_blank",
-                          rel: "noreferrer",
-                          className: "link-btn",
-                          children: (0, S.jsx)(h, {}),
-                        }),
-                        (0, S.jsx)("a", {
-                          href: "https://dex.coinmarketcap.com/token/bsc/0xd743d3c50ebd82f9173b599383979d10f3494444/",
-                          target: "_blank",
-                          rel: "noreferrer",
-                          className: "link-btn",
-                          children: (0, S.jsx)(E, {}),
-                        }),
-                        (0, S.jsx)("a", {
-                          href: "https://dexscreener.com/bsc/0xdb34b6781868690e3b8db7a55337269249e4adce",
+                          href: "https://dexscreener.com/ethereum/0xcomingsoon",
                           target: "_blank",
                           rel: "noreferrer",
                           className: "link-btn dex-screener",
@@ -21442,11 +21414,7 @@
                       (0, S.jsxs)("h1", {
                         className: "big-hero",
                         children: [
-                          "TOTAKEKE",
-                          (0, S.jsx)("span", {
-                            className: "hero-small",
-                            children: "{cto}",
-                          }),
+                          "Apple",
                         ],
                       }),
                       (0, S.jsxs)("div", {
@@ -21454,13 +21422,13 @@
                         children: [
                           (0, S.jsx)("a", {
                             className: "button",
-                            href: "https://four.meme/token/0xd743d3c50ebd82f9173b599383979d10f3494444",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                             target: "_blank",
                             rel: "noreferrer",
                             children: "Buy Now!",
                           }),
                           (0, S.jsx)("a", {
-                            href: "https://t.me/+EXbUMtY3MwE4MjU0",
+                            href: "https://t.me/applefox_eth",
                             target: "_blank",
                             rel: "noreferrer",
                             children: "Join the community",
@@ -21473,8 +21441,8 @@
                   (0, S.jsx)("p", {
                     className: "details",
                     children: o
-                      ? "...Many users confirmed the post was real, and some started to call TOTAKEKE the \u201cDark Cheems\u201d, or his \u201cEvil Twin.\u201d Although he\u2019s just a good boi!."
-                      : "TOTAKEKE was posted in Balltze\u2019s official social media channels as the twin brother of our beloved doggy Cheems!...",
+                      ? "...Many users confirmed the post was real, and some started to call Apple the \u201cDark Cheems\u201d, or his \u201cEvil Twin.\u201d Although he\u2019s just a good boi!."
+                      : "Apple was posted in Balltze\u2019s official social media channels as the twin brother of our beloved doggy Cheems!...",
                   }),
                   (0, S.jsxs)("div", {
                     className: "pagination",
@@ -21513,7 +21481,7 @@
         D = (A) => {
           let { id: t } = A;
           const [n, r] = (0, e.useState)(!1),
-            o = "0xd743d3c50ebd82f9173b599383979d10f3494444",
+            o = "0xcomingsoon",
             i = o.slice(0, 6) + "..." + o.slice(-4);
           return (0, S.jsx)("section", {
             id: t,
@@ -21528,7 +21496,7 @@
                   (0, S.jsxs)("h3", {
                     children: [
                       "How to buy ",
-                      (0, S.jsx)("b", { children: "TOTAKEKE" }),
+                      (0, S.jsx)("b", { children: "Apple" }),
                     ],
                   }),
                   (0, S.jsxs)("div", {
@@ -21539,7 +21507,7 @@
                           (0, S.jsx)("li", {
                             children: (0, S.jsxs)("p", {
                               children: [
-                                "Download and install a BNB-compatible wallet like",
+                                "Download and install a ETH-compatible wallet like",
                                 " ",
                                 (0, S.jsx)("a", {
                                   href: "https://metamask.io/",
@@ -21561,13 +21529,13 @@
                           (0, S.jsx)("li", {
                             children: (0, S.jsx)("p", {
                               children:
-                                "Buy BNB from a reputable exchange and transfer it to your wallet.",
+                                "Buy ETH from a reputable exchange and transfer it to your wallet.",
                             }),
                           }),
                           (0, S.jsx)("li", {
                             children: (0, S.jsx)("p", {
                               children:
-                                "Visit four.meme and connect your wallet",
+                                "Visit Uniswap and connect your wallet",
                             }),
                           }),
                           (0, S.jsx)("li", {
@@ -21578,10 +21546,10 @@
                                 (0, S.jsx)("a", {
                                   href: `data:text/plain,${o}`,
                                   download: "ca.txt",
-                                  children: "TOTAKEKE contract address",
+                                  children: "Apple contract address",
                                 }),
                                 " ",
-                                "and swap your BNB for TOTAKEKE tokens.",
+                                "and swap your ETH for Apple tokens.",
                               ],
                             }),
                           }),
@@ -42608,7 +42576,7 @@
       });
       const My = {
           totalSupply: "1,000,000,000,000",
-          tokenSymbol: "$TOTAKEKE",
+          tokenSymbol: "$Apple",
           distribution: [{ category: "Community", percentage: 100 }],
           taxStructure: { buy: 5, sell: 5, transfer: 2 },
           lpBurn: "100%",
@@ -42633,7 +42601,7 @@
                         children: [
                           My.totalSupply,
                           " ",
-                          (0, S.jsx)("b", { children: "$TOTAKEKE" }),
+                          (0, S.jsx)("b", { children: "$Apple" }),
                           " ",
                         ],
                       }),
@@ -42649,7 +42617,7 @@
                         children:
                           null === My || void 0 === My ? void 0 : My.tax,
                       }),
-                      (0, S.jsx)("h3", { children: "LP Burn" }),
+                      (0, S.jsx)("h3", { children: "LP Locked" }),
                       (0, S.jsx)("p", {
                         children:
                           null === My || void 0 === My ? void 0 : My.lpBurn,
@@ -42980,7 +42948,7 @@
                 A.forEach((A) => {
                   A.isIntersecting &&
                     (t(A.target.id),
-                    (document.title = `${A.target.id} | $TOTAKEKE`));
+                    (document.title = `${A.target.id} | $Apple`));
                 });
               },
               { threshold: 0.5 }
@@ -43016,7 +42984,7 @@
                   (0, S.jsx)(P, { id: "Home", toggleDark: o }),
                   (0, S.jsx)(jy, {
                     marqueeText:
-                      "TOTAKEKE \u2726 DARK CHEEMS \u2726 CTO \u2726 TOTAKEKE \u2726 DARK CHEEMS \u2726 CTO \u2726 TOTAKEKE \u2726 DARK CHEEMS \u2726 CTO \u2726 ",
+                      "Apple \u2726 Viral on TikTok \u2726 FOX \u2726 Apple \u2726 Viral on TikTok \u2726 FOX \u2726 Apple \u2726 Viral on TikTok \u2726 FOX \u2726 ",
                     speed: 3,
                     curveAmount: 400,
                     direction: "left",
@@ -43034,15 +43002,6 @@
                       "/images/5.jpeg",
                       "/images/6.jpeg",
                       "/images/7.jpeg",
-                      "/images/8.jpeg",
-                      "/images/9.jpeg",
-                      "/images/10.jpeg",
-                      "/images/11.jpeg",
-                      "/images/12.jpeg",
-                      "/images/13.jpeg",
-                      "/images/14.jpeg",
-                      "/images/15.jpeg",
-                      "/images/16.jpeg",
                     ],
                     id: "Gallery",
                   }),

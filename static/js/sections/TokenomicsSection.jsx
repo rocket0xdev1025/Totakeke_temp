@@ -10,7 +10,7 @@ import {
 
 const tokenomicsDetails = {
   totalSupply: "1,000,000,000,000",
-  tokenSymbol: "$TOTAKEKE",
+  tokenSymbol: "$Apple",
   distribution: [{ category: "Community", percentage: 100 }],
   taxStructure: {
     buy: 5,
@@ -61,7 +61,7 @@ const TokenomicsSection = ({ id }) => {
         <div className="left">
           <h3>Total Supply</h3>
           <p>
-            {tokenomicsDetails.totalSupply} <b>$TOTAKEKE</b>{" "}
+            {tokenomicsDetails.totalSupply} <b>$Apple</b>{" "}
           </p>
 
           <h3>Token symbol</h3>
