@@ -1,0 +1,14 @@
+{
+  "short_name": "TOTAKEKE",
+  "name": "TOTAKEKE",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f0e0f",
+  "background_color": "#0f0e0f"
+}
