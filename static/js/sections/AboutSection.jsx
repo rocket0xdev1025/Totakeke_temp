@@ -76,7 +76,7 @@ const AboutSection = ({ id }) => {
               <FaXTwitter />
             </a>
             <a
-              href="https://dexscreener.com/ethereum/0xcomingsoon"
+              href="https://dexscreener.com/ethereum/0xaF1B36ae084C6270724835b15b5470AA72aA0d05"
               target="_blank"
               rel="noreferrer"
               className="link-btn dex-screener"

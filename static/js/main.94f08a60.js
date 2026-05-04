@@ -21158,7 +21158,7 @@
                       children: (0, S.jsx)(F, {}),
                     }),
                     (0, S.jsx)("a", {
-                      href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                      href: "https://dexscreener.com/ethereum/0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "link-btn dex-screener",
@@ -21288,7 +21288,7 @@
                 className: "btn-holder",
                 children: (0, S.jsxs)("a", {
                   className: "button",
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
                   target: "_blank",
                   rel: "noreferrer",
                   children: [
@@ -21359,7 +21359,7 @@
                           children: (0, S.jsx)(F, {}),
                         }),
                         (0, S.jsx)("a", {
-                          href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                          href: "https://dexscreener.com/ethereum/0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
                           target: "_blank",
                           rel: "noreferrer",
                           className: "link-btn dex-screener",
@@ -21422,7 +21422,7 @@
                         children: [
                           (0, S.jsx)("a", {
                             className: "button",
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
                             target: "_blank",
                             rel: "noreferrer",
                             children: "Buy Now!",
@@ -21481,7 +21481,7 @@
         D = (A) => {
           let { id: t } = A;
           const [n, r] = (0, e.useState)(!1),
-            o = "0xcomingsoon",
+            o = "0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
             i = o.slice(0, 6) + "..." + o.slice(-4);
           return (0, S.jsx)("section", {
             id: t,

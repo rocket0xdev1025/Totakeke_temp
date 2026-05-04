@@ -51,7 +51,7 @@ const HeroSection = ({ id, toggleDark }) => {
           <div className="cta-holder">
             <a
               className="button"
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xaF1B36ae084C6270724835b15b5470AA72aA0d05"
               target="_blank"
               rel="noreferrer"
             >
