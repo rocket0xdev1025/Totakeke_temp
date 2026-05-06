@@ -60,7 +60,7 @@ const AboutSection = ({ id }) => {
           </p> */}
           <div className="links">
             <a
-              href="https://t.me/applefox_eth"
+              href="https://t.me/applethefox_eth"
               target="_blank"
               rel="noreferrer"
               className="link-btn"
@@ -68,7 +68,7 @@ const AboutSection = ({ id }) => {
               <FaTelegramPlane />
             </a>
             <a
-              href="https://x.com/applefox_eth"
+              href="https://x.com/applethefox_eth"
               target="_blank"
               rel="noreferrer"
               className="link-btn"
@@ -76,7 +76,7 @@ const AboutSection = ({ id }) => {
               <FaXTwitter />
             </a>
             <a
-              href="https://dexscreener.com/ethereum/0xaF1B36ae084C6270724835b15b5470AA72aA0d05"
+              href="https://dexscreener.com/ethereum/0x1e8E018eFB5C7668c122953450edC2646F7f6AD5"
               target="_blank"
               rel="noreferrer"
               className="link-btn dex-screener"

@@ -21144,21 +21144,21 @@
                   className: "footer-social links",
                   children: [
                     (0, S.jsx)("a", {
-                      href: "https://t.me/applefox_eth",
+                      href: "https://t.me/applethefox_eth",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "link-btn",
                       children: (0, S.jsx)(g, {}),
                     }),
                     (0, S.jsx)("a", {
-                      href: "https://x.com/applefox_eth",
+                      href: "https://x.com/applethefox_eth",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "link-btn",
                       children: (0, S.jsx)(F, {}),
                     }),
                     (0, S.jsx)("a", {
-                      href: "https://dexscreener.com/ethereum/0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
+                      href: "https://dexscreener.com/ethereum/0x1e8E018eFB5C7668c122953450edC2646F7f6AD5",
                       target: "_blank",
                       rel: "noreferrer",
                       className: "link-btn dex-screener",
@@ -21288,7 +21288,7 @@
                 className: "btn-holder",
                 children: (0, S.jsxs)("a", {
                   className: "button",
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1e8E018eFB5C7668c122953450edC2646F7f6AD5",
                   target: "_blank",
                   rel: "noreferrer",
                   children: [
@@ -21345,21 +21345,21 @@
                       className: "links",
                       children: [
                         (0, S.jsx)("a", {
-                          href: "https://t.me/applefox_eth",
+                          href: "https://t.me/applethefox_eth",
                           target: "_blank",
                           rel: "noreferrer",
                           className: "link-btn",
                           children: (0, S.jsx)(g, {}),
                         }),
                         (0, S.jsx)("a", {
-                          href: "https://x.com/applefox_eth",
+                          href: "https://x.com/applethefox_eth",
                           target: "_blank",
                           rel: "noreferrer",
                           className: "link-btn",
                           children: (0, S.jsx)(F, {}),
                         }),
                         (0, S.jsx)("a", {
-                          href: "https://dexscreener.com/ethereum/0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
+                          href: "https://dexscreener.com/ethereum/0x1e8E018eFB5C7668c122953450edC2646F7f6AD5",
                           target: "_blank",
                           rel: "noreferrer",
                           className: "link-btn dex-screener",
@@ -21422,13 +21422,13 @@
                         children: [
                           (0, S.jsx)("a", {
                             className: "button",
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1e8E018eFB5C7668c122953450edC2646F7f6AD5",
                             target: "_blank",
                             rel: "noreferrer",
                             children: "Buy Now!",
                           }),
                           (0, S.jsx)("a", {
-                            href: "https://t.me/applefox_eth",
+                            href: "https://t.me/applethefox_eth",
                             target: "_blank",
                             rel: "noreferrer",
                             children: "Join the community",
@@ -21481,7 +21481,7 @@
         D = (A) => {
           let { id: t } = A;
           const [n, r] = (0, e.useState)(!1),
-            o = "0xaF1B36ae084C6270724835b15b5470AA72aA0d05",
+            o = "0x1e8E018eFB5C7668c122953450edC2646F7f6AD5",
             i = o.slice(0, 6) + "..." + o.slice(-4);
           return (0, S.jsx)("section", {
             id: t,

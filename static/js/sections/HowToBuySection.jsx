@@ -3,7 +3,7 @@ import { FaCopy, FaRegCheckCircle } from "react-icons/fa";
 
 const HowToBuySection = ({ id }) => {
   const [isCopied, setIsCopied] = useState(false);
-  const contractAddress = "0xaF1B36ae084C6270724835b15b5470AA72aA0d05";
+  const contractAddress = "0x1e8E018eFB5C7668c122953450edC2646F7f6AD5";
   const contractAddressShort =
     contractAddress.slice(0, 6) + "..." + contractAddress.slice(-4);
 

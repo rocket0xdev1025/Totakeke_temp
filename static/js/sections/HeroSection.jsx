@@ -51,14 +51,14 @@ const HeroSection = ({ id, toggleDark }) => {
           <div className="cta-holder">
             <a
               className="button"
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xaF1B36ae084C6270724835b15b5470AA72aA0d05"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1e8E018eFB5C7668c122953450edC2646F7f6AD5"
               target="_blank"
               rel="noreferrer"
             >
               Buy Now!
             </a>
             <a
-              href="https://t.me/applefox_eth"
+              href="https://t.me/applethefox_eth"
               target="_blank"
               rel="noreferrer"
             >
